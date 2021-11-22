@@ -30,11 +30,14 @@ module.exports = {
   SITE8: 'https://bx-hunter.herokuapp.com/api/',
   SITE9: 'https://hardianto-chan.herokuapp.com/api/',
   SITE10: 'https://zenzapi.xyz/api/',
+  SITE11: 'https://dhnjing.xyz/api/',
 //---------------------------------------------------|-SUB-URL-|-----------------------
   FBS2: 'snapsave?url',
   YTX1: 'ytmp4v2?url',
   YTX2: 'ytplaymp4v2?query',
   S10XMP3Q: 'playmp3?query=',
+  DOWN: 'downloader/',
+  FB: 'facebook',
 //-------------------------------------------------------------------------------------
 //     Owner ට ගරු කරලා Apikey මාරු කරලා ගනින් උස්සනවා නම් ! පහල APIKEY උස්සන්න එපා
 //-------------------------------------------------------------------------------------
@@ -45,8 +48,9 @@ module.exports = {
   S5API: '2NU5TC8GIGZNPL5NU357KJZF',  
   S6API: 'azurebot1',
   S7API: '0',
-  S8API: 'Ikyy69',
+  S8API: 'Ikyy69', // NOT ANYMORE
   S9API: 'hardianto',
+  S11API: '266396231e5074bc19fc',
 //-------------------------------------------------------------------------
   ADMIN: process.env.ADMIN === undefined ?'RAMIYA' : process.env.ADMIN,
   ADMIN1: process.env.ADMIN1 === undefined ?'RAMIYA' : process.env.ADMIN1,
