@@ -31,6 +31,7 @@ module.exports = {
   SITE9: 'https://hardianto-chan.herokuapp.com/api/',
   SITE10: 'https://zenzapi.xyz/api/',
   SITE11: 'https://dhnjing.xyz/api/',
+  SITE12: 'https://yuzzu-api.herokuapp.com/api/',
 //---------------------------------------------------|-SUB-URL-|-----------------------
   FBS2: 'snapsave?url',
   YTX1: 'ytmp4v2?url',
@@ -38,6 +39,8 @@ module.exports = {
   S10XMP3Q: 'playmp3?query=',
   DOWN: 'downloader/',
   FB: 'facebook',
+  IG: 'instagram',
+  
 //-------------------------------------------------------------------------------------
 //     Owner ට ගරු කරලා Apikey මාරු කරලා ගනින් උස්සනවා නම් ! පහල APIKEY උස්සන්න එපා
 //-------------------------------------------------------------------------------------
