@@ -41,6 +41,8 @@ module.exports = {
   DOWN: 'downloader/',
   FB: 'facebook',
   IG: 'instagram',
+  BASE1: 'base32',
+  BASE2: 'base64',
   
 //-------------------------------------------------------------------------------------
 //     Owner ට ගරු කරලා Apikey මාරු කරලා ගනින් උස්සනවා නම් ! පහල APIKEY උස්සන්න එපා.
