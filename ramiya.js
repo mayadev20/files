@@ -20,8 +20,8 @@ module.exports = {
   VERSION: 'v2.2.0',
   BOT: '🦹‍♂️ *AZURE v2.2*',
 //----------------------------------------------------|-SITES-|-------------------------
-  SITE1: 'https://api.dapuhy.ga/api/', 
-  SITE2: 'https://api.dapuhy.ga/api/',
+  SITE1: 'https://api.dapuhy.xyz/api/', 
+  SITE2: 'https://api.dapuhy.xyz/api/',
   SITE3: 'https://zenzapi.xyz/api/downloader/',
   SITE4: 'https://api-senku.herokuapp.com/api/',
   SITE5: 'https://api.chipa.xyz/api/',
