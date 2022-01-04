@@ -33,6 +33,8 @@ module.exports = {
   SITE11: 'https://dhnjing.xyz/api/',
   SITE12: 'https://yuzzu-api.herokuapp.com/api/',
   SITE13: 'https://flamingtext.com/net-fu/proxy_form.cgi',
+  SITE14: 'https://tyz-api.herokuapp.com/randomimg/akaneko?param=',
+
 //---------------------------------------------------|-SUB-URL-|-----------------------
   FBS2: 'snapsave?url',
   YTX1: 'ytmp4v2?url',
