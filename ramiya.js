@@ -34,6 +34,7 @@ module.exports = {
   SITE12: 'https://yuzzu-api.herokuapp.com/api/',
   SITE13: 'https://flamingtext.com/net-fu/proxy_form.cgi',
   SITE14: 'https://tyz-api.herokuapp.com/randomimg/akaneko?param=',
+  SITE15: 'https://api.lolhuman.xyz/api/',
 
 //---------------------------------------------------|-SUB-URL-|-----------------------
   FBS2: 'snapsave?url',
