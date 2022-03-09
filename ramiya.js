@@ -22,7 +22,7 @@ module.exports = {
 //----------------------------------------------------|-SITES-|-------------------------
   SITE1: 'https://api.dapuhy.xyz/api/', 
   SITE2: 'https://api.dapuhy.xyz/api/',
-  SITE3: 'https://zenzapi.xyz/downloader',
+  SITE3: 'https://zenzapi.xyz/downloader/',
   SITE4: 'https://api-senku.herokuapp.com/api/',
   SITE5: 'https://api.chipa.xyz/api/',
   SITE6: 'https://api.zeks.me/api/',
